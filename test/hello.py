@@ -1,3 +1,5 @@
-print("Hello,World.")
-print("สวัสดี")
-print("Hello, tukta")
+"""Name : Anutta Thongdet
+ID : 364411760003
+Group : MIT421
+"""
+
